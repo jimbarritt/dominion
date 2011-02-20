@@ -340,5 +340,16 @@
     <option name="cycleTableSpecificationString" value="" />
     <option name="shortCycleTableSpecificationString" value="" />
   </component>
+  <component name="libraryTable">
+    <library name="development">
+      <CLASSES>
+        <root url="file://$PROJECT_DIR$/../../lib/development" />
+        <root url="file://$PROJECT_DIR$/../../lib/development" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$PROJECT_DIR$/../../lib/development" recursive="false" />
+    </library>
+  </component>
 </project>
 
